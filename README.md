@@ -19,8 +19,8 @@ This project provides a **GUI-based steganography tool** that allows users to **
 ## 📥 Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/steganography-tool.git
-   cd steganography-tool
+   git clone https://github.com/adwaitdeshpande-and/stenography.git
+   cd steganography
    ```
 2. **Install dependencies**
    ```bash
