@@ -28,7 +28,7 @@ This project provides a **GUI-based steganography tool** that allows users to **
    ```
 3. **Run the GUI**
    ```bash
-   python steganography_gui.py
+   python gui.py
    ```
 
 ## 🖥️ Usage Guide
